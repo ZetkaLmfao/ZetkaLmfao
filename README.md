@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A64EF7&center=true&vCenter=true&width=435&lines=This+is+my+profileee" alt="Typing SVG" /></a></p>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=A64EF7&center=true&vCenter=true&width=435&lines=Skills+i+know?" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=A64EF7&center=true&vCenter=true&width=435&lines=languages+i+know?" alt="Typing SVG" /></a></p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
